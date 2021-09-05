@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "dotenv": "^10.0.0",
-    "twit": "^2.2.11",
-    "twitter": "^1.7.1"
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^1.4.1"
   },
   "devDependencies": {
     "@types/node": "^16.7.7",
